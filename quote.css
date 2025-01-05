@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid black;
+    min-height: 30rem;
+    max-width: 50rem;
+    justify-content: center;
+    background-color: cornsilk;
+}
+.box{
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid black;
+    height: 200px;
+    max-width: 300px;
+    background-color: coral;
+    border-radius: 10px;
+}
+.cent{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    justify-content: center;
+}
+.box1{
+    margin: auto;
+    margin-top: 20px;
+    height: fit-content;
+    max-width: fit-content;
+    
+}
+button{
+    background-color: blanchedalmond;
+    height: 50px;
+    border-radius: 10px;
+}
+.par{
+    text-align: center;
+    margin-top: 40px;
+}
